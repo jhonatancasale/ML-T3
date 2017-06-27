@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#ignore pdf core content files
+*.pdf
+
+#Vim tmp files
+*~
