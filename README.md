@@ -2,8 +2,16 @@
 The last one of three projects in a Machine Learning discipline from USP
 
 # Sobre o Dataset
-  Inicialmente iremos trabalhar sobre o [dataset](https://www.kaggle.com/aljarah/xAPI-Edu-Data/downloads/xAPI-Edu-Data.csv) e sua descrição pode ser encontrada [aqui](https://www.kaggle.com/aljarah/xAPI-Edu-Data).
+???
 
 # Sobre o Problema
-  Inicialmente estamos interessados em predizer o resultado acadêmico de um
-determinado individuo com base em um conjunto de atributos.
+???
+
+# TODO
+- [ ] Baixar os arquivos
+  - [ ] Definir quais arquios ainda estão faltando e add no script
+- [ ] Converter pdf -> csv
+- [ ] Montar o pandas.DataFrame
+  - [ ] Decidir quais features vão entrar
+  - [ ] Criar uma function para parsear uma dada feature
+      - [ ] def show_question(major, minor=-1)
