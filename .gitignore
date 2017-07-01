@@ -102,6 +102,7 @@ ENV/
 
 #ignore pdf core content files
 *.pdf
+*.zip
 
 #Vim tmp files
 *~
