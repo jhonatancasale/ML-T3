@@ -103,6 +103,7 @@ ENV/
 #ignore pdf core content files
 *.pdf
 *.zip
+*.csv
 
 #Vim tmp files
 *~
